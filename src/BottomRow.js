@@ -9,7 +9,7 @@ const BottomRow = () => {
       return setQuarter(quarter + 1)
     }
     else{
-      return setQuarter(0)
+      return setQuarter(1)
     }
   }
     
